@@ -1,0 +1,5 @@
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-14T04:43:25.331Z"}
+{"level":"info","message":"::1 - - [14/Dec/2025:04:43:25 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-12-14T04:43:25.370Z"}
+{"level":"info","message":"::1 - - [14/Dec/2025:04:43:25 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-12-14T04:43:25.606Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-14T04:44:14.055Z"}
+{"level":"info","message":"::1 - - [14/Dec/2025:04:44:14 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-12-14T04:44:14.057Z"}
